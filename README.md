@@ -7,9 +7,8 @@ API is the acronym for Application Programming Interface, which is a software in
 
 1. It generates Cucumber HTML report with all the step details.
 2. Generates execution logs, with detailed request and response details.
-3. Feature file has examples of reading request details from json file.
-4. This also has an example to validate response body using json schema
-5. Test execution can be triggered form command line and from TestRunner.java file as Junit Tests also from pom.xml file. 
+3. This also has an example to validate response body using json schema
+4. Test execution can be triggered form command line and from TestRunner.java file as Junit Tests also from pom.xml file. 
 
 ## **Required Setup :**
 
